@@ -20,7 +20,7 @@ To use the Port_Scanner, follow these steps:
 2) Build the application using a C++ compiler:
  ```g++ port_scanner.cpp -o port_scanner```
 
-3)Run the application:
+ 3)Run the application:
  ```./port_scanner```
 
 🏃🔎💡
