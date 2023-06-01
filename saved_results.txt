@@ -1,6 +1,6 @@
-Port    Status
--------------------
-137   [CLOSED]
+Port    Status                   JUST AN EXAMPLE OF A POSSIBLE OUTPUT!
+-------------------                                  
+137   [CLOSED]                                 
 135   [OPEN]
 139   [OPEN]
 3306  [OPEN]
