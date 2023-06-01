@@ -15,13 +15,19 @@ Port_Scanner is a C++ command-line application for scanning open ports on a targ
 To use the Port_Scanner, follow these steps: 
 
 1) Clone the repository: 
- ```git clone https://github.com/your-username/port-scanner.git``` 
+ ```
+ git clone https://github.com/your-username/port-scanner.git
+ ``` 
  
 2) Build the application using a C++ compiler:
- ```g++ port_scanner.cpp -o port_scanner```
+ ```
+ g++ port_scanner.cpp -o port_scanner
+ ```
 
  3)Run the application:
- ```./port_scanner```
+ ```
+ ./port_scanner
+ ```
 
 🏃🔎💡
 
