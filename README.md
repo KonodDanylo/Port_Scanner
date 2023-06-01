@@ -24,7 +24,8 @@ To use the Port_Scanner, follow these steps:
  g++ port_scanner.cpp -o port_scanner
  ```
 
-3)Run the application:
+
+3.Run the application:
  ```
  ./port_scanner
  ```
