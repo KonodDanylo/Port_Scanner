@@ -7,7 +7,6 @@ Port_Scanner is a C++ command-line application for scanning open ports on a targ
  - Scan a target host for open ports
  - Multithreaded scanning for faster results
  - Support for famous ports used by network services
- - Colorful messages indicate the status of OPEN ports
  - Option to save results to a file
  
 **Getting Started**
