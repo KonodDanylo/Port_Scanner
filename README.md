@@ -10,12 +10,18 @@ Port_Scanner is a C++ command-line application for scanning open ports on a targ
  - Colorful emojis indicate the status of each port
  - Option to save results to a file
  
-**Usage**
- - Enter the target host's IP address or domain name.
- - Choose whether to save the output to a file.
- - If saving to a file, provide the desired filename.
- - Sit back and relax while the Port Scanner scans the target host's ports.
- - View the scan results in the console or the output file.
+**Getting Started**
+
+To use the Port_Scanner, follow these steps: 
+
+1) Clone the repository: 
+ ```git clone https://github.com/your-username/port-scanner.git``` 
+ 
+2) Build the application using a C++ compiler:
+ ```g++ port_scanner.cpp -o port_scanner```
+
+3)Run the application:
+ ```./port_scanner```
 
 🏃🔎💡
 
@@ -41,3 +47,4 @@ All ports scanned.
 
 Scan results saved to scan_results.txt.
 ```
+I hope, that helped you! Cheers!
