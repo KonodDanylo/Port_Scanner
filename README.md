@@ -18,3 +18,26 @@ Port_Scanner is a C++ command-line application for scanning open ports on a targ
  - View the scan results in the console or the output file.
 
 🏃🔎💡
+
+**Example**
+
+``` 
+$ ./port-scanner
+
+Enter the target host: 192.168.1.1
+Do you want to save the output to a file? (yes/no): yes
+Enter the filename to save the output: scan_results.txt
+
+Port    Status
+-------------------
+22    ✅ [OPEN]
+80    ✅ [OPEN]
+443   ✅ [OPEN]
+...
+
+Progress: 50/100 ports scanned.
+Progress: 75/100 ports scanned.
+All ports scanned.
+
+Scan results saved to scan_results.txt.
+```
